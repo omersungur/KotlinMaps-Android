@@ -10,6 +10,6 @@ Bu uygulamayı kullanmak için resimde belirtilen yere API_KEY'inizi yazmanız g
 
 ![Screenshot_20230122_102754](https://user-images.githubusercontent.com/70448538/213936680-901deb39-fba4-46a2-94f1-2e9e9794e2cb.png)
 
-![Screenshot_20230122_102826](https://user-images.githubusercontent.com/70448538/213936781-be217699-f3a0-41be-bb81-36b31e8622de.png)
-
 ![Screenshot_20230122_102912](https://user-images.githubusercontent.com/70448538/213936810-2fd0104c-17f9-4c15-946d-f979734f1008.png)
+
+![Screenshot_20230122_102920](https://user-images.githubusercontent.com/70448538/213936894-3fad8ccb-977f-4fe5-a09a-f19b457ecbb8.png)
