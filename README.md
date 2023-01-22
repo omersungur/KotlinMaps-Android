@@ -1,4 +1,4 @@
-Bu uygulamayı kullanmak için resimde belirtilen yere API_KEY'inizi yazmanız gerekmektedir.
+Bu uygulamayı kullanabilmek için resimde belirtilen yere API_KEY'inizi yazmanız gerekmektedir.
 
 ![Screenshot 2023-01-22 223823](https://user-images.githubusercontent.com/70448538/213936637-3b5e8a6e-9077-489a-892b-ce878438158e.png)
 
